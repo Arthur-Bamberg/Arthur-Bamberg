@@ -1,62 +1,62 @@
-### Opa! Sou Arthur Bamberg 👋
+### Hey! I'm Arthur Bamberg 👋
 
 <br>
 
-## Sobre Mim
+## About Me
 
-- **🎓 Técnico em Desenvolvimento de Sistemas pelo IFRS**
-- **📚 Estudante de Sistemas de Informação na Unisinos**
+- **🎓 Systems Development Technician from IFRS**
+- **📚 Information Systems Student at Unisinos**
 
-## Experiência Profissional
+## Professional Experience
 
-- **🛠️ Desenvolvimento Backend**
+- **🛠️ Backend Development**
   - NodeJS, NestJS, TypeScript
-  - Serviços de Mensageria (RabbitMQ, GCP Cloud Tasks)
-  - Bancos Relacionais (MySQL, Postgres)
+  - Messaging Services (RabbitMQ, GCP Cloud Tasks)
+  - Relational Databases (MySQL, Postgres)
 
-- **💻 Desenvolvimento Frontend**
+- **💻 Frontend Development**
   - React
 
-- **🔗 Integração de Sistemas**
+- **🔗 System Integration**
   - PHP
 
-- **📜 Certificação**
-  - Alura: Nest.js – Aplicações Node.js Eficientes e Escaláveis
+- **📜 Certification**
+  - Alura: Nest.js – Efficient and Scalable Node.js Applications
 
-- **⚙️ Ferramentas e Tecnologias**
+- **⚙️ Tools and Technologies**
   - Docker
   - AWS
   - Google Cloud
 
-## Competências Técnicas
+## Technical Skills
 
-- **🛠️ Desenvolvimento Backend**
+- **🛠️ Backend Development**
   - NodeJS, NestJS, TypeScript
-  - Serviços de Mensageria (RabbitMQ, GCP Cloud Tasks)
-  - Bancos Relacionais (MySQL, Postgres)
+  - Messaging Services (RabbitMQ, GCP Cloud Tasks)
+  - Relational Databases (MySQL, Postgres)
 
-- **💻 Desenvolvimento Frontend**
+- **💻 Frontend Development**
   - React
-  - React Native (TCC)
+  - React Native (Final Project)
 
-- **🔗 Integração de Sistemas**
+- **🔗 System Integration**
   - PHP
 
-## Objetivos
+## Objectives
 
-- **🚀 Desafios e Oportunidades**
-  - Aplicar habilidades em projetos inovadores e de alto impacto
-  - Contribuir para o sucesso de equipes e projetos através de soluções tecnológicas avançadas
+- **🚀 Challenges and Opportunities**
+  - Apply skills to innovative and high-impact projects
+  - Contribute to the success of teams and projects through advanced technological solutions
 
-## Linguagens mais utilizadas
+## Most Used Languages
 
 <div align="center">
   <a href="https://github.com/Arthur-Bamberg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Bamberg&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
-## Ícones
-  
+## Icons
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -72,8 +72,8 @@
   <img align="center" alt="PHP" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-## Contato
- 
+## Contact
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/arthur-bamberg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:bamberguisses@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
